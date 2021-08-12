@@ -13,3 +13,9 @@ function countWords(paragraph, word1, word2) {
 }
 
 countWords(paragraph, "love", "you");
+
+
+console.log("count of word you: " , paragraph.split("you").length-1);
+console.log("count of word you: " , paragraph.split("love").length-1);
+
+
