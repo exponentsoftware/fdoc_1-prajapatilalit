@@ -5,3 +5,4 @@ function cleanText(paragraph) {
 }
 
 cleanText(sentence);
+
